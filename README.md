@@ -1,6 +1,6 @@
 # Origin IP Finder
 
-A Python script that uses SecurityTrails API, wafw00f, and hakoriginfinder to find the origin IP addresses of a given domain and hopefully bypass WAF. The more static the URL you provide, the better.
+A Python script that uses SecurityTrails DNS History API, wafw00f, and hakoriginfinder to find the origin IP addresses of a given domain and hopefully bypass WAF. The more static the URL you provide, the better.
 
 ## Requirements
 - Python 3.x
